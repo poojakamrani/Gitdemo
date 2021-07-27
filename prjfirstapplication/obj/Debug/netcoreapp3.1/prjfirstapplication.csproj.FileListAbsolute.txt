@@ -1,0 +1,13 @@
+C:\online training\csharp\Day1VS\prjfirstapplication\bin\Debug\netcoreapp3.1\prjfirstapplication.exe
+C:\online training\csharp\Day1VS\prjfirstapplication\bin\Debug\netcoreapp3.1\prjfirstapplication.deps.json
+C:\online training\csharp\Day1VS\prjfirstapplication\bin\Debug\netcoreapp3.1\prjfirstapplication.runtimeconfig.json
+C:\online training\csharp\Day1VS\prjfirstapplication\bin\Debug\netcoreapp3.1\prjfirstapplication.runtimeconfig.dev.json
+C:\online training\csharp\Day1VS\prjfirstapplication\bin\Debug\netcoreapp3.1\prjfirstapplication.dll
+C:\online training\csharp\Day1VS\prjfirstapplication\bin\Debug\netcoreapp3.1\prjfirstapplication.pdb
+C:\online training\csharp\Day1VS\prjfirstapplication\obj\Debug\netcoreapp3.1\prjfirstapplication.csproj.AssemblyReference.cache
+C:\online training\csharp\Day1VS\prjfirstapplication\obj\Debug\netcoreapp3.1\prjfirstapplication.AssemblyInfoInputs.cache
+C:\online training\csharp\Day1VS\prjfirstapplication\obj\Debug\netcoreapp3.1\prjfirstapplication.AssemblyInfo.cs
+C:\online training\csharp\Day1VS\prjfirstapplication\obj\Debug\netcoreapp3.1\prjfirstapplication.csproj.CoreCompileInputs.cache
+C:\online training\csharp\Day1VS\prjfirstapplication\obj\Debug\netcoreapp3.1\prjfirstapplication.dll
+C:\online training\csharp\Day1VS\prjfirstapplication\obj\Debug\netcoreapp3.1\prjfirstapplication.pdb
+C:\online training\csharp\Day1VS\prjfirstapplication\obj\Debug\netcoreapp3.1\prjfirstapplication.genruntimeconfig.cache
