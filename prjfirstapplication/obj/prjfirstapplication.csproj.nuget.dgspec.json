@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\online training\\csharp\\Day1VS\\prjfirstapplication\\prjfirstapplication.csproj": {}
+    "C:\\online training\\GITDemo\\prjfirstapplication\\prjfirstapplication.csproj": {}
   },
   "projects": {
-    "C:\\online training\\csharp\\Day1VS\\prjfirstapplication\\prjfirstapplication.csproj": {
+    "C:\\online training\\GITDemo\\prjfirstapplication\\prjfirstapplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\online training\\csharp\\Day1VS\\prjfirstapplication\\prjfirstapplication.csproj",
+        "projectUniqueName": "C:\\online training\\GITDemo\\prjfirstapplication\\prjfirstapplication.csproj",
         "projectName": "prjfirstapplication",
-        "projectPath": "C:\\online training\\csharp\\Day1VS\\prjfirstapplication\\prjfirstapplication.csproj",
+        "projectPath": "C:\\online training\\GITDemo\\prjfirstapplication\\prjfirstapplication.csproj",
         "packagesPath": "C:\\Users\\Riya\\.nuget\\packages\\",
-        "outputPath": "C:\\online training\\csharp\\Day1VS\\prjfirstapplication\\obj\\",
+        "outputPath": "C:\\online training\\GITDemo\\prjfirstapplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Riya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
